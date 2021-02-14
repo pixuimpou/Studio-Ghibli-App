@@ -1,3 +1,5 @@
+![Studio Ghibli Logo](./logo.png)
+
 # Studio-Ghibli-App
 App criado com base no tutorial da Tania Rascia => "How to Connect to an API with JavaScript".  
 https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
@@ -8,4 +10,8 @@ Consiste em uma página simples que usa javascript para se conectar com a API do
 
 * No tutorial original foi usado xml para se conectar com a API, nesse app se utiliza Fetch;
 
-* Eu adicionei um botão de "see more" para cada descrição que excede 300 caracteres.
+* Eu adicionei um botão de "see more" para cada descrição que excede 300 caracteres;
+
+* Os erros são mostrados na tela e não no console.
+
+![app printscreen](https://i.imgur.com/b6q8FNf.png)
